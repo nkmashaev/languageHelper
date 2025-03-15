@@ -1,0 +1,7 @@
+spacy
+pinyin
+pypinyin
+jieba
+unicodedata
+pinyin-tone-converter
+pytest
